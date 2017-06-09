@@ -17,7 +17,7 @@ takcastで利用するelectronに搭載されているdesktopCaptureによる映
 takcastのプロジェクトで
 
 ```
-$ npm install taktod/takcast.source.desktopcapture
+$ npm install taktod/takcast.source.desktopcapture --save
 ```
 
 そのあとtakcastのプロジェクト側で
